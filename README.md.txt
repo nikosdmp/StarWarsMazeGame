@@ -17,8 +17,8 @@ Compile and run using GCC:
 ```bash
 gcc main.c -o StarWarsGame
 ./StarWarsGame
-
 ```
+
 ## Copyright
 
 © 2026 Nikos D.  
