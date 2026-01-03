@@ -15,8 +15,8 @@ A console-based Star Wars game where you navigate **Leia** through obstacles, st
 Compile and run using GCC:
 
 ```bash
-gcc main.c -o StarWarsGame
-./StarWarsGame
+gcc project1.c -o project1
+./project1
 ```
 
 ## Copyright
